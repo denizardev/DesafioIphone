@@ -18,9 +18,7 @@ Com base no vídeo de lançamento do iPhone, elabore em uma ferramenta de UML de
  <br> <br>
 
 ## 📁 Estrutura/
-- [DesafioIphone](https://github.com/juliagonzalezmoreira/DesafioIphone/tree/main/DesafioIphone) / Pasta com projeto
-- [diagramaIphone.drawio](https://github.com/juliagonzalezmoreira/DesafioIphone/blob/main/DiagramaIphone.drawio) / Diagrama de Classes.
-- ```README.md```  Informações do projeto.  
+  
 ## 📍 Instruções 
 
 ### Pré-Requisitos
@@ -33,15 +31,6 @@ Com base no vídeo de lançamento do iPhone, elabore em uma ferramenta de UML de
 ##  🔧 Tecnologias
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   
-## 🔗 Referências
-- Videoaulas do Bootcamp na plataforma da DIO
 
 
-## ✅ Feedback
 
-Caso tenha algum feedback, entre em contato!
-
-<a href = "mailto:juliagonzalezmoreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/julia-gonzalez-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<p align="center"> Desenvolvido com 💜 por Julia Gonzalez Moreira </p>
